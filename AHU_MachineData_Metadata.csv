@@ -1,0 +1,85 @@
+Name,Description
+A_avg,Average Current
+BTU,Chilled Water Consumption
+CC_HYDvlv,Cooling Coil Hydronic Valve Position
+CC_LAT,"Cooling Coil Temperature
+Cooling Coil Leaving Air (or Off-Coil) Temperature Sensor"
+CC_LATfail ,"Cooling Coil Leaving Air (or Off-Coil) Temperature Sensor
+Value = 2: Sensor ""Failure"" status detected by system
+Value = 1: Sensor ""Stuck"" status detected by system
+Value = 0: Sensor ""Healthy"" status detected by system"
+Chilled_Water_Return_Temperature,Chilled Water Return Temperature
+Chilled_Water_Supply_Temperature,Chilled Water Supply Temperature
+CHWR_T_Prifail ,"Primary Chilled Water Return Temperature Sensor
+Value = 2: Sensor ""Failure"" status detected by system
+Value = 1: Sensor ""Stuck"" status detected by system
+Value = 0: Sensor ""Healthy"" status detected by system"
+CHWS_T_Prifail ,"Primary Chilled Water Supply Temperature Sensor
+Value = 2: Sensor ""Failure"" status detected by system
+Value = 1: Sensor ""Stuck"" status detected by system
+Value = 0: Sensor ""Healthy"" status detected by system"
+CO2,"Carbon Dioxide Sensor
+CO2"
+CO2fail ,"
+Carbon Dioxide Sensor
+Value = 2: Sensor ""Failure"" status detected by system
+Value = 1: Sensor ""Stuck"" status detected by system
+Value = 0: Sensor ""Healthy"" status detected by system"
+CO2Limit,CO2 Limit Setpoint
+CTLONL ,"Controller Online - Offline issue must be fixed before more diagnostic can be applied to equipment
+Value = 1: Controller ""Online"" status detected by system
+Value = 0: Controller ""Offline"" status detected by system"
+history_id,For system database purposes
+kWh,Sensor to measure KWH for AHU
+kWhCTLONL ,"Controller Online - Offline issue must be fixed before more diagnostic can be applied to equipment
+Value = 1: Controller ""Online"" status detected by system
+Value = 0: Controller ""Offline"" status detected by system"
+kWhFail ,"Value = 2: Sensor ""Failure"" status detected by system
+Value = 1: Sensor ""Stuck"" status detected by system
+Value = 0: Sensor ""Healthy"" status detected by system"
+NoComm ,"No Communication
+Value = 1: ""Online"" status detected by system
+Value = 0:  ""Offline"" status detected by system"
+OAT,Outside Air Temperature - Outside Air Temperature Sensor
+OATfail ,"Outside Air Temperature Sensor
+Value = 2: Sensor ""Failure"" status detected by system
+Value = 1: Sensor ""Stuck"" status detected by system
+Value = 0: Sensor ""Healthy"" status detected by system"
+RAT,Return Air Temperature - Return Air Temperature Sensor
+RATfail ,"Return Air Temperature Sensor
+Value = 2: Sensor ""Failure"" status detected by system
+Value = 1: Sensor ""Stuck"" status detected by system
+Value = 0: Sensor ""Healthy"" status detected by system"
+SAT,Supply Air Temperature - Supply Air Temperature Sensor
+SATfail ,"Supply Air Temperature Sensor
+Value = 2: Sensor ""Failure"" status detected by system
+Value = 1: Sensor ""Stuck"" status detected by system
+Value = 0: Sensor ""Healthy"" status detected by system"
+SATspt,Supply Air Temperature Setpoint (Virtual Point)
+Supply_Air_Temperature_Setpoint,Supply Air Temperature Setpoint
+timestamp,DateTimestamp on which the values occurred
+Trip_Point,
+VQwater,(Virtual Heat Transfer Water) VQwater is the estimated amount of heat gain in the chilled water passing through the cooling coil
+ZATspt,Room Temperature Setpoint (Virtual Point) - Zone Air Temperature Sensor
+SAF_VSDfdbk,Supply Air Fan VSD Feedback
+SAF_VSDi,Supply Air Fan VSD Signal
+SAFst,Supply Air Temperature Setpoint
+VSD_Feedback,
+Water_Flow_Sensor,
+Temperature_Control,
+Smoke_Detector_Alarm,
+Remote/Local_Sensor,
+Program_Control_Air_Flow_Status,
+Program_Control_Pressure_Status,
+program_Control_Status,
+Moduling_Damper_Controller,
+Moduling_Damper_Feedback,
+Moduling_Valve_Control___BO,
+Moduling_Valve_Control_AO,
+Moduling_Valve_Control_Status,
+E_Filter_Alarm,
+E_Filter_Status,
+Filter_Alarm,
+Force_Air_flow_Controller,
+C1_VFan_Converter,
+C2_VFan_Converter,

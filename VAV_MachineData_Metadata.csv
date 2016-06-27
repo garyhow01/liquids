@@ -1,0 +1,22 @@
+Name,Description,Units
+CTLONL ,"Controller Online - Offline issue must be fixed before more diagnostic can be applied to equipment
+Value = 1: ""Online"" status detected by system
+Value = 0: ""Offline"" status detected by system",-
+history_id,For system database purposes,-
+NoComm ,"No Communication - Offline issue must be fixed before more diagnostic can be applied to equipment
+Value = 1: ""Online"" status detected by system
+Value = 0:  ""Offline"" status detected by system",-
+Pressure_Status,"Value = 3: High
+Value = 2: Normal
+Value = 1: Low",-
+SA_FLW,Supply Air Flow - Supply Air Flow Sensor,CMH
+SA_FLWspt,Supply Air Flow Setpoint,CMH
+timestamp,DateTimestamp on which the values occurred,-
+UNITst,"Unit Digital Feedback
+Value = 1: ""Online"" status detected by system
+Value = 0: ""Offline"" status detected by system",-
+ZAT,Average Room Temperature - Zone Air Temperature Sensor,ºF
+ZATfail ,"Value = 2: Sensor ""Failure"" status detected by system
+Value = 1: Sensor ""Stuck"" status detected by system
+Value = 0: Sensor ""Healthy"" status detected by system",-
+ZATspt,Room Temperature Setpoint (Virtual Point) - Zone Air Temperature Sensor,ºF

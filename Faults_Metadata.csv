@@ -1,0 +1,13 @@
+Name,Description
+Machine,Machine Identifier
+Diagnosis,"Fault diagnosis, description"
+Rank,"Average severity of the fault generated
+The scale is from one to nine with nine being the most severe"
+Qty,Quantity (Qty.): Number of times this fault is generated within time range of whole dataset
+Time - First,Timestamp of first fault
+Time - Last,Timestamp of last fault
+Time - Duration,Difference between Last and First
+Impact,Annualized dollar amount associated with current fault
+FDD Analysis Type Id,"Fault Detection, Diagnostics, and Interaction Analysis Identifier"
+Notes,Other notes input by user manually.
+Circuit,Not in used.
