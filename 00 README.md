@@ -1,4 +1,3 @@
-HVAC : Heating, Ventilation, and Air Conditioning.
 ACMV : Air-Conditioning & Mechanical Ventilation
 ======
 
